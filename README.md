@@ -4,7 +4,8 @@ This comes from the third course of coursera data science specialization. The pu
 
 # Data Source:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-Full description are listed here:
+
+ull description are listed here:
 https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
