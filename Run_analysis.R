@@ -1,3 +1,6 @@
+library(dplyr)
+library(tidyr)
+
 xtrain <- read.table('X_train.txt'); ## put relavant files in the present working directory and read them into R
 ytrain <- read.table('y_train.txt');  
 xtest <- read.table('X_test.txt');
