@@ -1,2 +1,2 @@
-# Getting-and-Cleaning-Data
-Coursera:data science 3
+# Data Science: Getting-and-Cleaning-Data
+Coursera Project
