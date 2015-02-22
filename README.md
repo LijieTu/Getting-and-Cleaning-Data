@@ -15,9 +15,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 # R script:
 Note: put all relevant files(other than original inertial data) in the present working directory and run the code, you will get the data_tidy as the final variable and data_tidy.txt as the final output file in the same directory
 
-# Cookbook
+# Cookbook:
 The Cookbook attached here describes the variables in the data and what the R script does to clean and transform the raw data into well-organised data avaible for further analysis.
 
-# Output file
+# Output file:
 data_tidy.txt is the output file avaible after cleaning.
 
