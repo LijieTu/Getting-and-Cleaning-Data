@@ -1,11 +1,13 @@
-# data source
+# Data source
 
 Download here: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 561 features exist in total in the raw data and those features are normalized and bounded within [-1,1].
 
-# variables:
+The acceleration values from accelerometer are in standard gravity units 'g'.
+
+# Variables:
 
 Measurements: Each volunteer was asked to perform 6 activities, including standing, walking, walking upstairs, walking downstairs, sitting and laying. 
 
